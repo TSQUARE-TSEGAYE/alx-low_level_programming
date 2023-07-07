@@ -10,7 +10,7 @@
  */
 int main(int argc __attribute__((unused)), char *argv[])
 {
-README.md printf("%s\n", *argv);
+	printf("%s\n", *argv);
 
-README.md return (0);
+	return (0);
 }
